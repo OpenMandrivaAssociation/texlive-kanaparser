@@ -3,7 +3,7 @@ Version:	48052
 Release:	2
 Summary:	Kana parser for LuaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kanaparser
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kanaparser
 License:	bsd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kanaparser.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kanaparser.doc.r%{version}.tar.xz
